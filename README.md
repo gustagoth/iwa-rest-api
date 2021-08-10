@@ -1,5 +1,5 @@
 # iwa-rest-api
-IWA-REST-API es una api rest que constituye el backend del sistema iwa-ecommerce (ver iwa-frontend).
+IWA-REST-API es una api rest del sistema iwa-ecommerce (ver iwa-frontend).
 
 - Tecnologías:
 Está realizado con **express** y **mysql**.
